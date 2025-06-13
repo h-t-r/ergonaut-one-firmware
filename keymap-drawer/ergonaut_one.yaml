@@ -98,7 +98,7 @@ layers:
   - UP ARROW
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - Vol Up
   - {t: ▽, type: trans}
   - F6
   - F7
@@ -117,12 +117,12 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - ⏮️
-  - PAUSE
+  - PLAY PAUSE
   - ⏭️
   - {t: ▽, type: trans}
-  - VOLUME DOWN
-  - VOLUME UP
+  - Vol Down
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
