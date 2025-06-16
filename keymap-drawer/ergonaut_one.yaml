@@ -12,7 +12,7 @@ layers:
   - I
   - O
   - P
-  - ESCAPE
+  - BACKSPACE
   - Ctrl
   - A
   - S
@@ -36,13 +36,13 @@ layers:
   - ','
   - .
   - /
-  - RIGHT ALT
+  - {t: ESCAPE, h: RIGHT SHIFT}
   - LEFT GUI
   - SYM
-  - {t: ⏎, h: LEFT ALT}
-  - {t: ␣, h: RIGHT SHIFT}
+  - {t: ␣, h: LEFT ALT}
+  - {t: ENTER, h: Meh+LEFT GUI}
   - NUM
-  - BACKSPACE
+  - RIGHT ALT
   SYM:
   - {t: ▽, type: trans}
   - '!'
@@ -68,7 +68,7 @@ layers:
   - '['
   - ']'
   - '|'
-  - LEFT SHIFT
+  - {t: ▽, type: trans}
   - '6'
   - '7'
   - '8'
@@ -79,7 +79,7 @@ layers:
   - '~'
   - '{'
   - '}'
-  - Alt
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {type: held}
   - {t: ▽, type: trans}
