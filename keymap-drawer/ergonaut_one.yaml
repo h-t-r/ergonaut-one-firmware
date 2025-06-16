@@ -114,9 +114,9 @@ layers:
   - {t: ▽, type: trans}
   - F11
   - F12
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - F13
+  - F14
+  - F15
   - {t: ▽, type: trans}
   - ⏮️
   - PLAY PAUSE
