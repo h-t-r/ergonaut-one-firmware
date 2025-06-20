@@ -93,11 +93,11 @@ layers:
   - F3
   - F4
   - F5
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - ''
+  - Home
   - UP ARROW
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - End
+  - ''
   - Vol Up
   - {t: ▽, type: trans}
   - F6
@@ -105,11 +105,11 @@ layers:
   - F8
   - F9
   - F10
-  - {t: ▽, type: trans}
+  - ''
   - ←
   - ↓
   - →
-  - {t: ▽, type: trans}
+  - ''
   - MUTE
   - {t: ▽, type: trans}
   - F11
@@ -117,11 +117,11 @@ layers:
   - F13
   - F14
   - F15
-  - {t: ▽, type: trans}
+  - ''
   - ⏮️
   - PLAY PAUSE
   - ⏭️
-  - {t: ▽, type: trans}
+  - ''
   - Vol Down
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
